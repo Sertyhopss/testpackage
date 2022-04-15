@@ -16,5 +16,5 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/Sertyhopss/testpackage/issues",
     },
     packages=['testpackage'],
-    install_requires=['random', 'numpy'],
+    install_requires=['numpy'],
 )

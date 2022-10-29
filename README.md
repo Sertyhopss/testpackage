@@ -1,2 +1,1 @@
-readme
-ok
+readme ok
